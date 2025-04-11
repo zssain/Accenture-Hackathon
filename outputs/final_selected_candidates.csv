@@ -1,0 +1,268 @@
+candidate_id,candidate_name,grade_score,extracted_entities,cv_text_preview,cv_bias_flags,cv_anonymized,persona_fit_score,explanation,composite_score,feedback_adjustment,updated_score
+C3363.pdf,,0.09509304,"[{'text': 'Candidate Resume', 'label': 'ORG'}, {'text': 'Sarah Webb\nEmail', 'label': 'PERSON'}, {'text': '+1-505-5586', 'label': 'NORP'}, {'text': '2019-2021', 'label': 'DATE'}, {'text': 'ABC Inc.', 'label': 'ORG'}, {'text': '2019-2023', 'label': 'DATE'}, {'text': '25%', 'label': 'PERCENT'}, {'text': 'Software', 'label': 'ORG'}, {'text': 'XYZ Corp', 'label': 'ORG'}, {'text': '2018-2022', 'label': 'DATE'}, {'text': '30%', 'label': 'PERCENT'}, {'text': 'Skills\nCybersecurity - Skilled', 'label': 'ORG'}, {'text': 'CEH', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': '40%', 'label': 'PERCENT'}, {'text': 'Tech Stack\nJava', 'label': 'PERSON'}, {'text': 'Spring Boot', 'label': 'PERSON'}, {'text': 'Kafka', 'label': 'PERSON'}]","Candidate Resume (ID: C3363)
+Name: Sarah Webb
+Email: sarahwebb50@gmail.com
+Phone: +1-505-5586
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big data ana",[],"Candidate Resume (ID: C3363)
+Name: [REDACTED]: sarahwebb50@gmail.com
+Phone: +1-505-5586
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big data ana",0.4062548339366912,Candidate 'C3363.pdf': grade_score increases score by 0.02; persona_fit_score increases score by 0.14; ,0.2195577575746765,-0.02,0.1995577575746765
+C5756.pdf,,0.09386568,"[{'text': 'Candidate Resume', 'label': 'ORG'}, {'text': 'James Guerra', 'label': 'PERSON'}, {'text': '+1-520-3392', 'label': 'NORP'}, {'text': '2019-2021', 'label': 'DATE'}, {'text': 'Ph.D.', 'label': 'WORK_OF_ART'}, {'text': '2016-2021', 'label': 'DATE'}, {'text': 'NLP', 'label': 'ORG'}, {'text': 'Computer Vision', 'label': 'ORG'}, {'text': 'Master of Business Administration', 'label': 'ORG'}, {'text': '2017-2019', 'label': 'DATE'}, {'text': 'Financial Analysis', 'label': 'ORG'}, {'text': 'Operations Management', 'label': 'ORG'}, {'text': 'XYZ Corp', 'label': 'ORG'}, {'text': '2018-2022', 'label': 'DATE'}, {'text': '30%', 'label': 'PERCENT'}, {'text': 'Data Scientist', 'label': 'ORG'}, {'text': 'ABC Inc.', 'label': 'ORG'}, {'text': '2019-2023', 'label': 'DATE'}, {'text': '25%', 'label': 'PERCENT'}, {'text': 'Skills\nPython & Machine Learning - Proficient', 'label': 'ORG'}, {'text': 'TensorFlow', 'label': 'ORG'}, {'text': 'PyTorch', 'label': 'ORG'}, {'text': 'Scikit', 'label': 'GPE'}, {'text': 'CEH', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': '40%', 'label': 'PERCENT'}, {'text': 'Tech Stack\nJava', 'label': 'PERSON'}, {'text': 'Spring Boot', 'label': 'PERSON'}, {'text': 'Kafka', 'label': 'PERSON'}]","Candidate Resume (ID: C5756)
+Name: James Guerra
+Email: jamesguerra91@gmail.com
+Phone: +1-520-3392
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big data",[],"Candidate Resume (ID: C5756)
+Name: [REDACTED]
+Email: jamesguerra91@gmail.com
+Phone: +1-520-3392
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big data",0.4448089957237243,Candidate 'C5756.pdf': grade_score increases score by 0.02; persona_fit_score increases score by 0.15; ,0.2342430062894897,-0.02,0.2142430062894897
+C9282.pdf,,0.07914029,"[{'text': 'Candidate Resume', 'label': 'ORG'}, {'text': 'Lori Brown', 'label': 'PERSON'}, {'text': '+1-472-7791', 'label': 'NORP'}, {'text': '2019-2021', 'label': 'DATE'}, {'text': 'ABC Inc.', 'label': 'ORG'}, {'text': '2019-2023', 'label': 'DATE'}, {'text': '25%', 'label': 'PERCENT'}, {'text': 'Skills\nCybersecurity - Skilled', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': '40%', 'label': 'PERCENT'}, {'text': 'Tech Stack\nC++', 'label': 'PERSON'}, {'text': 'Deep Learning', 'label': 'PERSON'}, {'text': 'PyTorch', 'label': 'PERSON'}]","Candidate Resume (ID: C9282)
+Name: Lori Brown
+Email: loribrown54@gmail.com
+Phone: +1-472-7791
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big data ana",[],"Candidate Resume (ID: C9282)
+Name: [REDACTED]
+Email: loribrown54@gmail.com
+Phone: +1-472-7791
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big data ana",0.4288465976715088,Candidate 'C9282.pdf': grade_score increases score by 0.02; persona_fit_score increases score by 0.15; ,0.2190228130686035,-0.02,0.1990228130686035
+C2144.pdf,,0.07622379,"[{'text': 'Candidate Resume', 'label': 'ORG'}, {'text': 'Stacey Hunter', 'label': 'PERSON'}, {'text': 'Email', 'label': 'PERSON'}, {'text': '2019-2021', 'label': 'DATE'}, {'text': 'DEF Ltd.', 'label': 'ORG'}, {'text': '2017-2021', 'label': 'DATE'}, {'text': '40%', 'label': 'PERCENT'}, {'text': 'Cloud Computing - Expert', 'label': 'PERSON'}, {'text': 'AWS', 'label': 'ORG'}, {'text': 'GCP', 'label': 'ORG'}, {'text': 'CEH', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': '40%', 'label': 'PERCENT'}, {'text': 'Tech Stack\nJava', 'label': 'PERSON'}, {'text': 'Spring Boot', 'label': 'PERSON'}, {'text': 'Kafka', 'label': 'PERSON'}]","Candidate Resume (ID: C2144)
+Name: Stacey Hunter
+Email: staceyhunter24@gmail.com
+Phone: +1-850-5303
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big da",[],"Candidate Resume (ID: C2144)
+Name: [REDACTED]
+[REDACTED]: staceyhunter24@gmail.com
+Phone: +1-850-5303
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big da",0.3677900433540344,Candidate 'C2144.pdf': grade_score increases score by 0.01; persona_fit_score increases score by 0.12; ,0.1928502913416137,-0.02,0.1728502913416137
+C4460.pdf,,0.07273645,"[{'text': 'Candidate Resume', 'label': 'ORG'}, {'text': 'Jesus Martin\nEmail', 'label': 'PERSON'}, {'text': '2019-2021', 'label': 'DATE'}, {'text': 'Master of Business Administration', 'label': 'ORG'}, {'text': '2017-2019', 'label': 'DATE'}, {'text': 'Financial Analysis', 'label': 'ORG'}, {'text': 'Operations Management', 'label': 'ORG'}, {'text': 'Software Engineering', 'label': 'ORG'}, {'text': '2013-2015', 'label': 'DATE'}, {'text': 'XYZ Corp', 'label': 'ORG'}, {'text': '2018-2022', 'label': 'DATE'}, {'text': '30%', 'label': 'PERCENT'}, {'text': 'DEF Ltd.', 'label': 'ORG'}, {'text': '2017-2021', 'label': 'DATE'}, {'text': '40%', 'label': 'PERCENT'}, {'text': 'Skills\nCybersecurity - Skilled', 'label': 'ORG'}, {'text': 'CEH', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': '40%', 'label': 'PERCENT'}, {'text': 'Wireshark', 'label': 'ORG'}, {'text': 'Burp Suite', 'label': 'PERSON'}, {'text': 'Kali Linux', 'label': 'PERSON'}]","Candidate Resume (ID: C4460)
+Name: Jesus Martin
+Email: jesusmartin75@gmail.com
+Phone: +1-750-1874
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big data",[],"Candidate Resume (ID: C4460)
+Name: [REDACTED]: jesusmartin75@gmail.com
+Phone: +1-750-1874
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big data",0.4448677837848663,Candidate 'C4460.pdf': grade_score increases score by 0.01; persona_fit_score increases score by 0.15; ,0.2215889835139465,-0.02,0.2015889835139465
+C6059.pdf,,0.07166361,"[{'text': 'Candidate Resume', 'label': 'ORG'}, {'text': 'Samantha Coleman', 'label': 'PERSON'}, {'text': '+1-335', 'label': 'NORP'}, {'text': '2019-2021', 'label': 'DATE'}, {'text': 'ABC Inc.', 'label': 'ORG'}, {'text': '2019-2023', 'label': 'DATE'}, {'text': '25%', 'label': 'PERCENT'}, {'text': 'Cloud Computing - Expert', 'label': 'PERSON'}, {'text': 'AWS', 'label': 'ORG'}, {'text': 'GCP', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': '40%', 'label': 'PERCENT'}, {'text': 'Tech Stack\nC++', 'label': 'PERSON'}, {'text': 'Deep Learning', 'label': 'PERSON'}, {'text': 'PyTorch', 'label': 'PERSON'}]","Candidate Resume (ID: C6059)
+Name: Samantha Coleman
+Email: samanthacoleman24@gmail.com
+Phone: +1-335-5858
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, ",[],"Candidate Resume (ID: C6059)
+Name: [REDACTED]
+Email: samanthacoleman24@gmail.com
+Phone: +1-335-5858
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, ",0.5253467202186584,Candidate 'C6059.pdf': grade_score increases score by 0.01; persona_fit_score increases score by 0.18; ,0.2531368540874633,-0.02,0.2331368540874633
+C3830.pdf,,0.07050846,"[{'text': 'Candidate Resume', 'label': 'ORG'}, {'text': 'Bianca Phelps\nEmail', 'label': 'ORG'}, {'text': '+1-934-7044', 'label': 'NORP'}, {'text': '2019-2021', 'label': 'DATE'}, {'text': 'Master of Business Administration', 'label': 'ORG'}, {'text': '2017-2019', 'label': 'DATE'}, {'text': 'Financial Analysis', 'label': 'ORG'}, {'text': 'Operations Management', 'label': 'ORG'}, {'text': 'Software Engineering', 'label': 'ORG'}, {'text': '2013-2015', 'label': 'DATE'}, {'text': 'XYZ Corp', 'label': 'ORG'}, {'text': '2018-2022', 'label': 'DATE'}, {'text': '30%', 'label': 'PERCENT'}, {'text': 'DEF Ltd.', 'label': 'ORG'}, {'text': '2017-2021', 'label': 'DATE'}, {'text': '40%', 'label': 'PERCENT'}, {'text': 'Cloud Computing - Expert', 'label': 'PERSON'}, {'text': 'AWS', 'label': 'ORG'}, {'text': 'GCP', 'label': 'ORG'}, {'text': 'CEH', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': '40%', 'label': 'PERCENT'}, {'text': 'Wireshark', 'label': 'ORG'}, {'text': 'Burp Suite', 'label': 'PERSON'}, {'text': 'Kali Linux', 'label': 'PERSON'}]","Candidate Resume (ID: C3830)
+Name: Bianca Phelps
+Email: biancaphelps52@gmail.com
+Phone: +1-934-7044
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big da",[],"Candidate Resume (ID: C3830)
+Name: Bianca Phelps
+Email: biancaphelps52@gmail.com
+Phone: +1-934-7044
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big da",0.3603366434574127,Candidate 'C3830.pdf': grade_score increases score by 0.01; persona_fit_score increases score by 0.12; ,0.186439733382965,-0.02,0.166439733382965
+C2430.pdf,,0.059708145,"[{'text': 'Candidate Resume', 'label': 'ORG'}, {'text': 'Victoria Burton', 'label': 'PERSON'}, {'text': '+1-393-5083', 'label': 'NORP'}, {'text': '2019-2021', 'label': 'DATE'}, {'text': 'ABC Inc.', 'label': 'ORG'}, {'text': '2019-2023', 'label': 'DATE'}, {'text': '25%', 'label': 'PERCENT'}, {'text': 'Skills\nPython & Machine Learning - Proficient', 'label': 'ORG'}, {'text': 'TensorFlow', 'label': 'ORG'}, {'text': 'PyTorch', 'label': 'ORG'}, {'text': 'Scikit', 'label': 'GPE'}, {'text': 'AI', 'label': 'GPE'}, {'text': 'AI', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': 'Tech Stack\nCybersecurity', 'label': 'PERSON'}, {'text': 'Wireshark', 'label': 'ORG'}, {'text': 'Burp Suite', 'label': 'PERSON'}, {'text': 'Kali Linux', 'label': 'PERSON'}]","Candidate Resume (ID: C2430)
+Name: Victoria Burton
+Email: victoriaburton73@gmail.com
+Phone: +1-393-5083
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, bi",[],"Candidate Resume (ID: C2430)
+Name: [REDACTED]
+Email: victoriaburton73@gmail.com
+Phone: +1-393-5083
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, bi",0.4248932361602783,Candidate 'C2430.pdf': grade_score increases score by 0.00; persona_fit_score increases score by 0.14; ,0.2057821814641113,-0.02,0.1857821814641113
+C4999.pdf,,0.055997852,"[{'text': 'Candidate Resume', 'label': 'ORG'}, {'text': 'James Smith', 'label': 'PERSON'}, {'text': '+1-927-6986', 'label': 'NORP'}, {'text': '2019-2021', 'label': 'DATE'}, {'text': 'Bachelor of Engineering in Information Technology', 'label': 'ORG'}, {'text': '2014-2018', 'label': 'DATE'}, {'text': 'DEF Ltd.', 'label': 'ORG'}, {'text': '2017-2021', 'label': 'DATE'}, {'text': '40%', 'label': 'PERCENT'}, {'text': 'Skills\nCybersecurity - Skilled', 'label': 'ORG'}, {'text': 'CEH', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': '40%', 'label': 'PERCENT'}, {'text': 'Wireshark', 'label': 'ORG'}, {'text': 'Burp Suite', 'label': 'PERSON'}, {'text': 'Kali Linux', 'label': 'PERSON'}]","Candidate Resume (ID: C4999)
+Name: James Smith
+Email: jamessmith66@gmail.com
+Phone: +1-927-6986
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big data a",[],"Candidate Resume (ID: C4999)
+Name: [REDACTED]
+Email: jamessmith66@gmail.com
+Phone: +1-927-6986
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big data a",0.3876770555973052,Candidate 'C4999.pdf': grade_score increases score by 0.00; persona_fit_score increases score by 0.13; ,0.1886695334389221,-0.02,0.1686695334389221
+C9369.pdf,,0.051312447,"[{'text': 'Candidate Resume', 'label': 'ORG'}, {'text': 'Sylvia Brown', 'label': 'PERSON'}, {'text': '+1-340-6610', 'label': 'NORP'}, {'text': '2019-2021', 'label': 'DATE'}, {'text': 'Bachelor of Engineering in Information Technology', 'label': 'ORG'}, {'text': '2014-2018', 'label': 'DATE'}, {'text': 'Ph.D. in Artificial Intelligence', 'label': 'WORK_OF_ART'}, {'text': '2016-2021', 'label': 'DATE'}, {'text': 'NLP', 'label': 'ORG'}, {'text': 'Computer Vision', 'label': 'ORG'}, {'text': 'ABC Inc.', 'label': 'ORG'}, {'text': '2019-2023', 'label': 'DATE'}, {'text': '25%', 'label': 'PERCENT'}, {'text': 'Skills\nCybersecurity - Skilled', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': '40%', 'label': 'PERCENT'}, {'text': 'Tech Stack\nJava', 'label': 'PERSON'}, {'text': 'Spring Boot', 'label': 'PERSON'}, {'text': 'Kafka', 'label': 'PERSON'}]","Candidate Resume (ID: C9369)
+Name: Sylvia Brown
+Email: sylviabrown74@gmail.com
+Phone: +1-340-6610
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big data",[],"Candidate Resume (ID: C9369)
+Name: [REDACTED]
+Email: sylviabrown74@gmail.com
+Phone: +1-340-6610
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big data",0.4099731266498565,Candidate 'C9369.pdf': grade_score decreases score by 0.00; persona_fit_score increases score by 0.14; ,0.1947767188599426,-0.02,0.1747767188599426
+C6592.pdf,,0.05027756,"[{'text': 'Candidate Resume', 'label': 'ORG'}, {'text': 'Kim Simon', 'label': 'PERSON'}, {'text': '+1-533-1429', 'label': 'NORP'}, {'text': '2019-2021', 'label': 'DATE'}, {'text': 'Software Engineering', 'label': 'ORG'}, {'text': '2013-2015', 'label': 'DATE'}, {'text': 'ABC Inc.', 'label': 'ORG'}, {'text': '2019-2023', 'label': 'DATE'}, {'text': '25%', 'label': 'PERCENT'}, {'text': 'Cloud Computing - Expert', 'label': 'PERSON'}, {'text': 'AWS', 'label': 'ORG'}, {'text': 'GCP', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': '40%', 'label': 'PERCENT'}, {'text': 'Tech Stack\nC++', 'label': 'PERSON'}, {'text': 'Deep Learning', 'label': 'PERSON'}, {'text': 'PyTorch', 'label': 'PERSON'}]","Candidate Resume (ID: C6592)
+Name: Kim Simon
+Email: kimsimon51@gmail.com
+Phone: +1-533-1429
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big data analy",[],"Candidate Resume (ID: C6592)
+Name: [REDACTED]
+Email: kimsimon51@gmail.com
+Phone: +1-533-1429
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big data analy",0.3899427950382232,Candidate 'C6592.pdf': grade_score decreases score by 0.00; persona_fit_score increases score by 0.13; ,0.1861436540152893,-0.02,0.1661436540152893
+C3771.pdf,,0.047488987,"[{'text': 'Candidate Resume', 'label': 'ORG'}, {'text': 'Barry Davis', 'label': 'PERSON'}, {'text': 'Email', 'label': 'PERSON'}, {'text': '+1-866-4958', 'label': 'NORP'}, {'text': '2019-2021', 'label': 'DATE'}, {'text': 'XYZ Corp', 'label': 'ORG'}, {'text': '2018-2022', 'label': 'DATE'}, {'text': '30%', 'label': 'PERCENT'}, {'text': 'Data Scientist', 'label': 'ORG'}, {'text': 'ABC Inc.', 'label': 'ORG'}, {'text': '2019-2023', 'label': 'DATE'}, {'text': '25%', 'label': 'PERCENT'}, {'text': 'Skills\nCybersecurity - Skilled', 'label': 'ORG'}, {'text': 'CEH', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': 'AI', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': 'Tech Stack\nC++', 'label': 'PERSON'}, {'text': 'Deep Learning', 'label': 'PERSON'}, {'text': 'PyTorch', 'label': 'PERSON'}]","Candidate Resume (ID: C3771)
+Name: Barry Davis
+Email: barrydavis18@gmail.com
+Phone: +1-866-4958
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big data a",[],"Candidate Resume (ID: C3771)
+Name: [REDACTED]
+[REDACTED]: barrydavis18@gmail.com
+Phone: +1-866-4958
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big data a",0.4901531159877776,Candidate 'C3771.pdf': grade_score decreases score by 0.00; persona_fit_score increases score by 0.17; ,0.224554638595111,-0.02,0.204554638595111
+C5591.pdf,,0.042578712,"[{'text': 'Candidate Resume', 'label': 'ORG'}, {'text': 'Alexander Hood\nEmail', 'label': 'PERSON'}, {'text': '+1-552-9818', 'label': 'NORP'}, {'text': '2019-2021', 'label': 'DATE'}, {'text': 'ABC Inc.', 'label': 'ORG'}, {'text': '2019-2023', 'label': 'DATE'}, {'text': '25%', 'label': 'PERCENT'}, {'text': 'DEF Ltd.', 'label': 'ORG'}, {'text': '2017-2021', 'label': 'DATE'}, {'text': '40%', 'label': 'PERCENT'}, {'text': 'Cloud Computing - Expert', 'label': 'PERSON'}, {'text': 'AWS', 'label': 'ORG'}, {'text': 'GCP', 'label': 'ORG'}, {'text': 'CEH', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': 'AI', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': 'Tech Stack\nC++', 'label': 'PERSON'}, {'text': 'Deep Learning', 'label': 'PERSON'}, {'text': 'PyTorch', 'label': 'PERSON'}]","Candidate Resume (ID: C5591)
+Name: Alexander Hood
+Email: alexanderhood17@gmail.com
+Phone: +1-552-9818
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big ",[],"Candidate Resume (ID: C5591)
+Name: [REDACTED]: alexanderhood17@gmail.com
+Phone: +1-552-9818
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big ",0.4840547204017639,Candidate 'C5591.pdf': grade_score decreases score by 0.01; persona_fit_score increases score by 0.17; ,0.2191691153607055,-0.02,0.1991691153607055
+C9884.pdf,,0.041908596,"[{'text': 'Candidate Resume', 'label': 'ORG'}, {'text': 'Eugene Hardy', 'label': 'PERSON'}, {'text': '+1-368-6156', 'label': 'NORP'}, {'text': '2019-2021', 'label': 'DATE'}, {'text': 'Ph.D.', 'label': 'WORK_OF_ART'}, {'text': '2016-2021', 'label': 'DATE'}, {'text': 'NLP', 'label': 'ORG'}, {'text': 'Computer Vision', 'label': 'ORG'}, {'text': 'Bachelor of Engineering in Information Technology', 'label': 'ORG'}, {'text': '2014-2018', 'label': 'DATE'}, {'text': 'DEF Ltd.', 'label': 'ORG'}, {'text': '2017-2021', 'label': 'DATE'}, {'text': '40%', 'label': 'PERCENT'}, {'text': 'Skills\nPython & Machine Learning - Proficient', 'label': 'ORG'}, {'text': 'TensorFlow', 'label': 'ORG'}, {'text': 'PyTorch', 'label': 'ORG'}, {'text': 'Scikit', 'label': 'GPE'}, {'text': 'AI', 'label': 'GPE'}, {'text': 'AI', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': 'Tech Stack\nJava', 'label': 'PERSON'}, {'text': 'Spring Boot', 'label': 'PERSON'}, {'text': 'Kafka', 'label': 'PERSON'}]","Candidate Resume (ID: C9884)
+Name: Eugene Hardy
+Email: eugenehardy24@gmail.com
+Phone: +1-368-6156
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big data",[],"Candidate Resume (ID: C9884)
+Name: [REDACTED]
+Email: eugenehardy24@gmail.com
+Phone: +1-368-6156
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big data",0.450730276107788,Candidate 'C9884.pdf': grade_score decreases score by 0.01; persona_fit_score increases score by 0.15; ,0.2054372680431152,-0.02,0.1854372680431152
+C9165.pdf,,0.03689421,"[{'text': 'Candidate Resume', 'label': 'ORG'}, {'text': 'Ryan Mccormick\nEmail', 'label': 'PERSON'}, {'text': '+1-989-5028', 'label': 'NORP'}, {'text': '2019-2021', 'label': 'DATE'}, {'text': '2015-2019', 'label': 'DATE'}, {'text': 'Specialized', 'label': 'ORG'}, {'text': 'Software Development', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': 'Bachelor of Engineering in Information Technology', 'label': 'ORG'}, {'text': '2014-2018', 'label': 'DATE'}, {'text': 'DEF Ltd.', 'label': 'ORG'}, {'text': '2017-2021', 'label': 'DATE'}, {'text': '40%', 'label': 'PERCENT'}, {'text': 'Software', 'label': 'ORG'}, {'text': 'XYZ Corp', 'label': 'ORG'}, {'text': '2018-2022', 'label': 'DATE'}, {'text': '30%', 'label': 'PERCENT'}, {'text': 'Cloud Computing - Expert', 'label': 'PERSON'}, {'text': 'AWS', 'label': 'ORG'}, {'text': 'GCP', 'label': 'ORG'}, {'text': 'CEH', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': 'AI', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': 'Tech Stack\nPython', 'label': 'PERSON'}, {'text': 'TensorFlow', 'label': 'ORG'}, {'text': 'PyTorch', 'label': 'ORG'}, {'text': 'Docker', 'label': 'PERSON'}]","Candidate Resume (ID: C9165)
+Name: Ryan Mccormick
+Email: ryanmccormick53@gmail.com
+Phone: +1-989-5028
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big ",[],"Candidate Resume (ID: C9165)
+Name: [REDACTED]: ryanmccormick53@gmail.com
+Phone: +1-989-5028
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big ",0.5741673469543457,Candidate 'C9165.pdf': grade_score decreases score by 0.01; persona_fit_score increases score by 0.20; ,0.2518034647817382,-0.02,0.2318034647817382
+C4336.pdf,,0.034570016,"[{'text': 'Candidate Resume', 'label': 'ORG'}, {'text': 'Nancy Lewis\nEmail', 'label': 'PERSON'}, {'text': '+1-705', 'label': 'NORP'}, {'text': '2019-2021', 'label': 'DATE'}, {'text': 'ABC Inc.', 'label': 'ORG'}, {'text': '2019-2023', 'label': 'DATE'}, {'text': '25%', 'label': 'PERCENT'}, {'text': 'Cloud Computing - Expert', 'label': 'PERSON'}, {'text': 'AWS', 'label': 'ORG'}, {'text': 'GCP', 'label': 'ORG'}, {'text': 'CEH', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': 'AI', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': 'Tech Stack\nC++', 'label': 'PERSON'}, {'text': 'Deep Learning', 'label': 'PERSON'}, {'text': 'PyTorch', 'label': 'PERSON'}]","Candidate Resume (ID: C4336)
+Name: Nancy Lewis
+Email: nancylewis11@gmail.com
+Phone: +1-705-1071
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big data a",[],"Candidate Resume (ID: C4336)
+Name: [REDACTED]: nancylewis11@gmail.com
+Phone: +1-705-1071
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big data a",0.5301012098789215,Candidate 'C4336.pdf': grade_score decreases score by 0.01; persona_fit_score increases score by 0.19; ,0.2327824935515686,-0.02,0.2127824935515686
+C9533.pdf,,0.03288353,"[{'text': 'Candidate Resume', 'label': 'ORG'}, {'text': 'Katie Burns', 'label': 'PERSON'}, {'text': '+1-752-6187', 'label': 'NORP'}, {'text': '2019-2021', 'label': 'DATE'}, {'text': 'Bachelor of Engineering in Information Technology', 'label': 'ORG'}, {'text': '2014-2018', 'label': 'DATE'}, {'text': 'ABC Inc.', 'label': 'ORG'}, {'text': '2019-2023', 'label': 'DATE'}, {'text': '25%', 'label': 'PERCENT'}, {'text': 'Software', 'label': 'ORG'}, {'text': 'XYZ Corp', 'label': 'ORG'}, {'text': '2018-2022', 'label': 'DATE'}, {'text': '30%', 'label': 'PERCENT'}, {'text': 'Skills\nCybersecurity - Skilled', 'label': 'ORG'}, {'text': 'CEH', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': 'AI', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': 'Tech Stack\nPython', 'label': 'PERSON'}, {'text': 'TensorFlow', 'label': 'ORG'}, {'text': 'PyTorch', 'label': 'ORG'}, {'text': 'Docker', 'label': 'PERSON'}]","Candidate Resume (ID: C9533)
+Name: Katie Burns
+Email: katieburns55@gmail.com
+Phone: +1-752-6187
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big data a",[],"Candidate Resume (ID: C9533)
+Name: [REDACTED]
+Email: katieburns55@gmail.com
+Phone: +1-752-6187
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big data a",0.3935398817062377,Candidate 'C9533.pdf': grade_score decreases score by 0.01; persona_fit_score increases score by 0.13; ,0.177146070682495,-0.02,0.1571460706824951
+C3627.pdf,,0.025737576,"[{'text': 'Candidate Resume', 'label': 'ORG'}, {'text': 'Matthew Rubio', 'label': 'PERSON'}, {'text': '+1-545-1297', 'label': 'NORP'}, {'text': '2019-2021', 'label': 'DATE'}, {'text': '2015-2019', 'label': 'DATE'}, {'text': 'Specialized', 'label': 'ORG'}, {'text': 'Software Development', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': 'XYZ Corp', 'label': 'ORG'}, {'text': '2018-2022', 'label': 'DATE'}, {'text': '30%', 'label': 'PERCENT'}, {'text': 'DEF Ltd.', 'label': 'ORG'}, {'text': '2017-2021', 'label': 'DATE'}, {'text': '40%', 'label': 'PERCENT'}, {'text': 'Cloud Computing - Expert', 'label': 'PERSON'}, {'text': 'AWS', 'label': 'ORG'}, {'text': 'GCP', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': 'AI', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': 'Tech Stack\nPython', 'label': 'PERSON'}, {'text': 'TensorFlow', 'label': 'ORG'}, {'text': 'PyTorch', 'label': 'ORG'}, {'text': 'Docker', 'label': 'PERSON'}]","Candidate Resume (ID: C3627)
+Name: Matthew Rubio
+Email: matthewrubio56@gmail.com
+Phone: +1-545-1297
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big da",[],"Candidate Resume (ID: C3627)
+Name: [REDACTED]
+Email: matthewrubio56@gmail.com
+Phone: +1-545-1297
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big da",0.4802792251110077,Candidate 'C3627.pdf': grade_score decreases score by 0.02; persona_fit_score increases score by 0.17; ,0.2075542356444031,-0.02,0.1875542356444031
+C7093.pdf,,0.022664094,"[{'text': 'Candidate Resume', 'label': 'ORG'}, {'text': 'Adam Brown', 'label': 'PERSON'}, {'text': '+1-602-2177', 'label': 'NORP'}, {'text': '2019-2021', 'label': 'DATE'}, {'text': 'DEF Ltd.', 'label': 'ORG'}, {'text': '2017-2021', 'label': 'DATE'}, {'text': '40%', 'label': 'PERCENT'}, {'text': 'Skills\nCybersecurity - Skilled', 'label': 'ORG'}, {'text': 'CEH', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': 'AI', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': 'Tech Stack\nCybersecurity', 'label': 'PERSON'}, {'text': 'Wireshark', 'label': 'ORG'}, {'text': 'Burp Suite', 'label': 'PERSON'}, {'text': 'Kali Linux', 'label': 'PERSON'}]","Candidate Resume (ID: C7093)
+Name: Adam Brown
+Email: adambrown16@gmail.com
+Phone: +1-602-2177
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big data ana",[],"Candidate Resume (ID: C7093)
+Name: [REDACTED]
+Email: adambrown16@gmail.com
+Phone: +1-602-2177
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big data ana",0.4413232684135437,Candidate 'C7093.pdf': grade_score decreases score by 0.02; persona_fit_score increases score by 0.15; ,0.1901277637654174,-0.02,0.1701277637654175
+C2838.pdf,,0.021437163,"[{'text': 'Candidate Resume', 'label': 'ORG'}, {'text': 'Jessica Dorsey\nEmail', 'label': 'PERSON'}, {'text': '+1-480-4084', 'label': 'NORP'}, {'text': '2019-2021', 'label': 'DATE'}, {'text': 'DEF Ltd.', 'label': 'ORG'}, {'text': '2017-2021', 'label': 'DATE'}, {'text': '40%', 'label': 'PERCENT'}, {'text': 'Data Scientist', 'label': 'ORG'}, {'text': 'ABC Inc.', 'label': 'ORG'}, {'text': '2019-2023', 'label': 'DATE'}, {'text': '25%', 'label': 'PERCENT'}, {'text': 'Cloud Computing - Expert', 'label': 'PERSON'}, {'text': 'AWS', 'label': 'ORG'}, {'text': 'GCP', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': 'AI', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': 'Tech Stack\nJava', 'label': 'PERSON'}, {'text': 'Spring Boot', 'label': 'PERSON'}, {'text': 'Kafka', 'label': 'PERSON'}]","Candidate Resume (ID: C2838)
+Name: Jessica Dorsey
+Email: jessicadorsey20@gmail.com
+Phone: +1-480-4084
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big ",[],"Candidate Resume (ID: C2838)
+Name: [REDACTED]: jessicadorsey20@gmail.com
+Phone: +1-480-4084
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big ",0.5032877206802367,Candidate 'C2838.pdf': grade_score decreases score by 0.02; persona_fit_score increases score by 0.17; ,0.2141773860720947,-0.02,0.1941773860720947
+C7482.pdf,,0.011974061,"[{'text': 'Candidate Resume', 'label': 'ORG'}, {'text': 'Michelle Ortiz', 'label': 'PERSON'}, {'text': '2019-2021', 'label': 'DATE'}, {'text': 'Ph.D.', 'label': 'WORK_OF_ART'}, {'text': '2016-2021', 'label': 'DATE'}, {'text': 'NLP', 'label': 'ORG'}, {'text': 'Computer Vision', 'label': 'ORG'}, {'text': 'Bachelor of Engineering in Information Technology', 'label': 'ORG'}, {'text': '2014-2018', 'label': 'DATE'}, {'text': 'ABC Inc.', 'label': 'ORG'}, {'text': '2019-2023', 'label': 'DATE'}, {'text': '25%', 'label': 'PERCENT'}, {'text': 'Cloud Computing - Expert', 'label': 'PERSON'}, {'text': 'AWS', 'label': 'ORG'}, {'text': 'GCP', 'label': 'ORG'}, {'text': 'CEH', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': 'AI', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': 'Tech Stack\nPython', 'label': 'PERSON'}, {'text': 'TensorFlow', 'label': 'ORG'}, {'text': 'PyTorch', 'label': 'ORG'}, {'text': 'Docker', 'label': 'PERSON'}]","Candidate Resume (ID: C7482)
+Name: Michelle Ortiz
+Email: michelleortiz34@gmail.com
+Phone: +1-788-9755
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big ",[],"Candidate Resume (ID: C7482)
+Name: [REDACTED]
+Email: michelleortiz34@gmail.com
+Phone: +1-788-9755
+Education
+Master of Science in Data Science (2019-2021)
+Gained expertise in machine learning, big ",0.6030327856540679,Candidate 'C7482.pdf': grade_score decreases score by 0.02; persona_fit_score increases score by 0.21; ,0.2483975508616271,-0.02,0.2283975508616272

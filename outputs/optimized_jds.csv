@@ -1,0 +1,327 @@
+Job Title,Job Description,optimized_jd,grade_level,extracted_entities
+Software Engineer," Description:
+We are seeking a skilled Software Engineer to design, develop, and maintain software applications. The ideal candidate will write efficient code, troubleshoot issues, and collaborate with teams to deliver high-quality solutions.
+
+Responsibilities:
+
+Develop, test, and deploy software applications.
+Write clean, maintainable, and scalable code.
+Collaborate with cross-functional teams to define and implement features.
+Troubleshoot and debug issues for optimal performance.
+Stay updated with emerging technologies and best practices.
+Qualifications:
+
+Bachelor's degree in Computer Science or a related field.
+Proficiency in programming languages like Python, Java, or C++.
+Experience with databases, web development, and software frameworks.
+Strong problem-solving skills and attention to detail.
+Ability to work both independently and in a team environment.",True,12.014209401709405,"{'entities': [{'text': 'Software', 'label': 'ORG'}, {'text': 'Bachelor', 'label': 'ORG'}, {'text': 'Computer Science', 'label': 'ORG'}, {'text': 'Python', 'label': 'PERSON'}, {'text': 'Java', 'label': 'PERSON'}, {'text': 'C++', 'label': 'MONEY'}], 'noun_phrases': [' Description', 'We', 'a skilled Software Engineer', 'software applications', 'The ideal candidate', 'efficient code', 'troubleshoot issues', 'teams', 'high-quality solutions', 'Responsibilities', 'test', 'software applications', 'clean, maintainable, and scalable code', 'cross-functional teams', 'features', 'Troubleshoot and debug issues', 'optimal performance', 'emerging technologies', 'best practices', 'Qualifications', ""Bachelor's degree"", 'Computer Science', 'a related field', 'Proficiency', 'programming languages', 'Python', 'Java', 'C++', 'Experience', 'databases', 'web development', 'software frameworks', 'Strong problem-solving skills', 'attention', 'detail', 'Ability', 'a team environment']}"
+Data Scientist,"Job Description:
+We are looking for a skilled Data Scientist to analyze complex datasets, develop predictive models, and provide actionable insights. You will collaborate with cross-functional teams to optimize business strategies and drive data-driven decision-making.
+
+Responsibilities:
+Collect, clean, and analyze large datasets.
+Develop and deploy machine learning models.
+Build predictive analytics solutions to improve business outcomes.
+Communicate findings through reports and visualizations.
+Stay updated with advancements in data science and AI.
+Qualifications:
+Bachelors or Masters degree in Data Science, Computer Science, or a related field.
+Proficiency in Python, R, SQL, and machine learning frameworks.
+Experience with data visualization tools like Tableau or Power BI.
+Strong analytical and problem-solving skills.
+Ability to work independently and in a team environment.",True,12.040000000000003,"{'entities': [{'text': 'Data Scientist', 'label': 'ORG'}, {'text': 'Develop', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': 'Data Science, Computer Science', 'label': 'ORG'}, {'text': 'SQL', 'label': 'ORG'}, {'text': 'Tableau or Power BI', 'label': 'ORG'}], 'noun_phrases': ['Job Description', 'We', 'a skilled Data Scientist', 'complex datasets', 'predictive models', 'actionable insights', 'You', 'cross-functional teams', 'business strategies', 'data-driven decision-making', 'Responsibilities', 'large datasets', 'machine learning models', 'predictive analytics solutions', 'business outcomes', 'Communicate', 'reports', 'visualizations', 'advancements', 'data science', 'AI', 'Qualifications', 'Bachelor\x92s or Master\x92s degree', 'Data Science', 'Computer Science', 'a related field', 'Proficiency', 'Python', 'R', 'SQL', 'Experience', 'data visualization tools', 'Tableau', 'Power BI', 'Strong analytical and problem-solving skills', 'Ability', 'a team environment']}"
+Product Manager,"Description:
+We are seeking an innovative and strategic Product Manager to lead the development and execution of new products. The ideal candidate will collaborate with cross-functional teams to define product roadmaps, analyze market trends, and ensure successful product launches.
+
+Responsibilities:
+
+Define product vision and strategy based on market research and customer needs.
+Work closely with engineering, design, and marketing teams to develop and launch products.
+Prioritize features, create roadmaps, and manage product lifecycle.
+Analyze user feedback and data to optimize product performance.
+Ensure alignment between business goals and product development.
+Qualifications:
+
+Bachelor's degree in Business, Computer Science, or a related field.
+Experience in product management, agile methodologies, and market research.
+Strong analytical, leadership, and communication skills.
+Familiarity with project management tools and data-driven decision-making.",True,13.65443181818182,"{'entities': [{'text': 'Bachelor', 'label': 'ORG'}, {'text': 'Business, Computer Science', 'label': 'ORG'}], 'noun_phrases': ['Description', 'We', 'an innovative and strategic Product Manager', 'the development', 'execution', 'new products', 'The ideal candidate', 'cross-functional teams', 'product roadmaps', 'market trends', 'successful product launches', 'Responsibilities', 'Define product vision', 'strategy', 'market research', 'customer needs', 'engineering', 'design', 'marketing teams', 'products', 'Prioritize', 'features', 'roadmaps', 'product lifecycle', 'Analyze user feedback', 'data', 'product performance', 'alignment', 'business goals', 'product development', 'Qualifications', ""Bachelor's degree"", 'Business', 'Computer Science', 'a related field', 'Experience', 'product management', 'agile methodologies', 'market research', 'leadership', 'communication skills', 'Familiarity', 'project management tools', 'data-driven decision-making']}"
+Cloud Engineer,"Description:
+We are looking for a skilled Cloud Engineer to design, implement, and manage cloud-based infrastructure. You will optimize performance, enhance security, and ensure scalability while collaborating with development teams to deploy cloud solutions efficiently.
+
+Responsibilities:
+Design and maintain cloud architecture for high availability and security.
+Automate deployments and manage CI/CD pipelines.
+Monitor cloud systems, troubleshoot issues, and optimize costs.
+Implement security best practices and compliance measures.
+Qualifications:
+Bachelors degree in Computer Science, IT, or related field.
+Experience with cloud platforms like AWS, Azure, or Google Cloud.
+Proficiency in infrastructure-as-code (Terraform, CloudFormation).
+Strong scripting skills in Python, Bash, or PowerShell.",True,13.004047619047622,"{'entities': [{'text': 'Cloud Engineer', 'label': 'ORG'}, {'text': 'Computer Science', 'label': 'ORG'}, {'text': 'AWS', 'label': 'ORG'}, {'text': 'Google Cloud', 'label': 'PRODUCT'}, {'text': 'Terraform', 'label': 'ORG'}, {'text': 'CloudFormation', 'label': 'ORG'}, {'text': 'Python', 'label': 'GPE'}, {'text': 'Bash', 'label': 'GPE'}, {'text': 'PowerShell', 'label': 'ORG'}], 'noun_phrases': ['Description', 'We', 'a skilled Cloud Engineer', 'cloud-based infrastructure', 'You', 'performance', 'security', 'scalability', 'development teams', 'cloud solutions', 'Responsibilities', 'cloud architecture', 'high availability', 'security', 'Automate deployments', 'CI/CD pipelines', 'Monitor cloud systems', 'troubleshoot issues', 'optimize costs', 'security best practices', 'compliance measures', 'Qualifications', 'Bachelor\x92s degree', 'Computer Science', 'IT', 'related field', 'Experience', 'cloud platforms', 'AWS', 'Azure', 'Google Cloud', 'Proficiency', 'code', 'Strong scripting skills', 'Python', 'Bash', 'PowerShell']}"
+Cybersecurity Analyst,"Description:
+We are looking for a skilled Cybersecurity Analyst to protect our organization's systems and data from cyber threats. You will monitor networks, analyze security incidents, and implement protective measures to ensure compliance and data integrity.
+
+Responsibilities:
+Monitor and analyze security alerts to detect potential threats.
+Conduct vulnerability assessments and risk analysis.
+Implement security policies, firewalls, and encryption protocols.
+Investigate and respond to security breaches.
+Ensure compliance with cybersecurity regulations and best practices.
+Qualifications:
+Bachelor's degree in Cybersecurity, Computer Science, or related field.
+Experience with security tools like SIEM, firewalls, and intrusion detection systems.
+Knowledge of network security, encryption, and risk management.
+Strong analytical and problem-solving skills.
+Certifications like CEH, CISSP, or CompTIA Security+ are a plus.
+
+
+
+
+",True,15.056666666666668,"{'entities': [{'text': 'Cybersecurity', 'label': 'ORG'}, {'text': 'Bachelor', 'label': 'ORG'}, {'text': 'Cybersecurity, Computer Science', 'label': 'ORG'}, {'text': 'CEH', 'label': 'ORG'}], 'noun_phrases': ['Description', 'We', 'a skilled Cybersecurity Analyst', ""our organization's systems"", 'data', 'cyber threats', 'You', 'networks', 'security incidents', 'protective measures', 'compliance and data integrity', 'Responsibilities', 'Monitor', 'security alerts', 'potential threats', 'vulnerability assessments', 'risk analysis', 'security policies', 'firewalls', 'encryption protocols', 'Investigate', 'security breaches', 'compliance', 'cybersecurity regulations', 'best practices', 'Qualifications', ""Bachelor's degree"", 'Cybersecurity', 'Computer Science', 'related field', 'Experience', 'security tools', 'SIEM', 'firewalls', 'intrusion detection systems', 'Knowledge', 'network security', 'encryption', 'risk management', 'Strong analytical and problem-solving skills', 'Certifications', 'CEH', 'CISSP', 'CompTIA Security+', 'a plus']}"
+Machine Learning Engineer,"Description:
+We are looking for a skilled Machine Learning Engineer to develop, train, and deploy AI models for real-world applications. You will work with large datasets, optimize algorithms, and collaborate with cross-functional teams to drive innovation.
+
+Responsibilities:
+
+Develop and optimize machine learning models for various applications.
+Process and analyze large datasets to extract meaningful insights.
+Deploy and maintain AI models in production environments.
+Collaborate with data scientists, engineers, and product teams.
+Stay updated with the latest advancements in AI and ML.
+Qualifications:
+
+Bachelors or Masters in Computer Science, Data Science, or a related field.
+Proficiency in Python, TensorFlow, PyTorch, and Scikit-learn.
+Experience with data preprocessing, model deployment, and cloud platforms.
+Strong problem-solving skills and analytical mindset.
+
+
+
+
+",True,11.46496274217586,"{'entities': [{'text': 'Machine Learning Engineer', 'label': 'ORG'}, {'text': 'AI', 'label': 'ORG'}, {'text': 'AI', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': 'ML', 'label': 'ORG'}, {'text': 'Master\x92s', 'label': 'ORG'}, {'text': 'Computer Science, Data Science', 'label': 'ORG'}, {'text': 'TensorFlow', 'label': 'ORG'}, {'text': 'PyTorch', 'label': 'ORG'}, {'text': 'Scikit', 'label': 'GPE'}], 'noun_phrases': ['Description', 'We', 'a skilled Machine Learning Engineer', 'AI models', 'real-world applications', 'You', 'large datasets', 'optimize algorithms', 'cross-functional teams', 'innovation', 'Responsibilities', 'machine learning models', 'various applications', 'Process', 'large datasets', 'meaningful insights', 'AI models', 'production environments', 'Collaborate', 'data scientists', 'engineers', 'product teams', 'the latest advancements', 'AI', 'ML', 'Qualifications', 'Bachelor\x92s', 'Master\x92s', 'Computer Science', 'Data Science', 'a related field', 'Proficiency', 'Python', 'TensorFlow', 'PyTorch', 'Scikit-learn', 'Experience', 'data preprocessing', 'model deployment', 'cloud platforms', 'Strong problem-solving skills', 'analytical mindset']}"
+DevOps Engineer,"Description:
+We are seeking a skilled DevOps Engineer to streamline development, deployment, and operations. You will be responsible for automating infrastructure, improving CI/CD pipelines, and ensuring system reliability, security, and scalability.
+
+Responsibilities:
+Develop and maintain CI/CD pipelines for seamless deployment.
+Automate infrastructure management using tools like Terraform or Ansible.
+Monitor system performance and ensure high availability.
+Collaborate with development and operations teams to optimize workflows.
+Implement security best practices and ensure compliance.
+Qualifications:
+Bachelor's degree in Computer Science, IT, or related field.
+Proficiency in cloud platforms (AWS, Azure, or Google Cloud).
+Experience with containerization (Docker, Kubernetes).
+Strong scripting skills (Python, Bash, or PowerShell).
+Knowledge of configuration management tools (Ansible, Chef, or Puppet).",True,14.415326086956526,"{'entities': [{'text': 'DevOps Engineer', 'label': 'ORG'}, {'text': 'CI', 'label': 'ORG'}, {'text': 'Develop', 'label': 'ORG'}, {'text': 'CI', 'label': 'ORG'}, {'text': 'Terraform', 'label': 'ORG'}, {'text': 'Bachelor', 'label': 'ORG'}, {'text': 'Computer Science', 'label': 'ORG'}, {'text': 'Google Cloud', 'label': 'PERSON'}, {'text': 'Docker', 'label': 'PERSON'}, {'text': 'Kubernetes', 'label': 'ORG'}, {'text': 'Bash', 'label': 'GPE'}, {'text': 'PowerShell', 'label': 'ORG'}, {'text': 'Puppet', 'label': 'ORG'}], 'noun_phrases': ['Description', 'We', 'a skilled DevOps Engineer', 'development', 'deployment', 'operations', 'You', 'infrastructure', 'CI/CD pipelines', 'system reliability', 'security', 'scalability', 'Responsibilities', 'CI/CD pipelines', 'seamless deployment', 'Automate infrastructure management', 'tools', 'Terraform', 'Ansible', 'Monitor system performance', 'high availability', 'development and operations teams', 'workflows', 'security', 'best practices', 'compliance', 'Qualifications', ""Bachelor's degree"", 'Computer Science', 'IT', 'related field', 'Proficiency', 'cloud platforms', 'AWS', 'Azure', 'Google Cloud', 'Experience', 'containerization', 'Docker', 'Strong scripting skills', 'Python', 'Bash', 'PowerShell', 'Knowledge', 'configuration management tools', 'Ansible, Chef', 'Puppet']}"
+Full Stack Developer,"Description:
+We are looking for a skilled Full Stack Developer to design, develop, and maintain web applications. You will work on both frontend and backend development, ensuring seamless user experiences and optimized performance.
+
+Responsibilities:
+Develop and maintain web applications using modern frontend and backend technologies.
+Collaborate with designers and backend engineers to implement new features.
+Optimize application performance and ensure scalability.
+Troubleshoot and debug issues in a fast-paced environment.
+Stay updated with emerging web technologies and best practices.
+Qualifications:
+Bachelor's degree in Computer Science or related field (or equivalent experience).
+Proficiency in JavaScript, React, Node.js, and databases (SQL/NoSQL).
+Experience with RESTful APIs, cloud services, and version control (Git).
+Strong problem-solving skills and ability to work in a collaborative team.",True,12.610967741935486,"{'entities': [{'text': 'Develop', 'label': 'ORG'}, {'text': 'Bachelor', 'label': 'ORG'}, {'text': 'Computer Science', 'label': 'ORG'}, {'text': 'JavaScript', 'label': 'ORG'}, {'text': 'React', 'label': 'GPE'}, {'text': 'Node.js', 'label': 'GPE'}, {'text': 'Git', 'label': 'PERSON'}], 'noun_phrases': ['Description', 'We', 'a skilled Full Stack Developer', 'design', 'web applications', 'You', 'both frontend and backend development', 'seamless user experiences', 'optimized performance', 'Responsibilities', 'web applications', 'modern frontend and backend technologies', 'Collaborate', 'designers', 'backend engineers', 'new features', 'Optimize application performance', 'scalability', 'Troubleshoot and debug issues', 'a fast-paced environment', 'emerging web technologies', 'best practices', 'Qualifications', ""Bachelor's degree"", 'Computer Science', 'related field', 'equivalent experience', 'Proficiency', 'JavaScript', 'React', 'Node.js', 'databases', 'SQL/NoSQL', 'Experience', 'RESTful APIs', 'cloud services', 'version control', 'Git', 'Strong problem-solving skills', 'ability', 'a collaborative team']}"
+Big Data Engineer,"Description:
+We are seeking a skilled Big Data Engineer to design, develop, and maintain scalable data pipelines for processing and analyzing large datasets. You will work with distributed computing technologies to optimize data workflows and support data-driven decision-making.
+
+Responsibilities:
+Design and implement data pipelines for large-scale processing.
+Optimize data storage and retrieval for performance and scalability.
+Work with cloud-based and on-premises big data technologies.
+Ensure data security, integrity, and compliance.
+Collaborate with data scientists and analysts to support business needs.
+Qualifications:
+Bachelor's/Masters degree in Computer Science, Data Engineering, or related field.
+Experience with Hadoop, Spark, Kafka, and distributed computing.
+Proficiency in SQL, Python, or Scala for data processing.
+Knowledge of cloud platforms like AWS, Azure, or GCP.
+Strong problem-solving and analytical skills.",True,12.53772900763359,"{'entities': [{'text': 'Big Data Engineer', 'label': 'ORG'}, {'text': 'Computer Science, Data Engineering', 'label': 'ORG'}, {'text': 'Hadoop', 'label': 'ORG'}, {'text': 'Spark', 'label': 'ORG'}, {'text': 'Kafka', 'label': 'PERSON'}, {'text': 'SQL', 'label': 'GPE'}, {'text': 'Scala', 'label': 'PERSON'}, {'text': 'AWS', 'label': 'ORG'}, {'text': 'GCP', 'label': 'ORG'}], 'noun_phrases': ['Description', 'We', 'a skilled Big Data Engineer', 'scalable data pipelines', 'processing', 'large datasets', 'You', 'distributed computing technologies', 'data workflows', 'data-driven decision-making', 'Responsibilities', 'data pipelines', 'large-scale processing', 'Optimize data storage', 'retrieval', 'performance', 'scalability', 'Work', 'cloud-based and on-premises big data technologies', 'data security', 'integrity', 'compliance', 'Collaborate', 'data scientists', 'analysts', 'business needs', 'Qualifications', ""Bachelor's/Master\x92s degree"", 'Computer Science', 'Data Engineering', 'related field', 'Experience', 'Hadoop', 'Spark', 'Kafka', 'computing', 'Proficiency', 'SQL', 'Python', 'Scala', 'data processing', 'Knowledge', 'cloud platforms', 'AWS', 'Azure', 'GCP', 'Strong problem-solving and analytical skills']}"
+AI Researcher,"Description:
+We are seeking an innovative AI Researcher to develop cutting-edge AI models and algorithms. You will work on advancing machine learning techniques, optimizing AI systems, and applying research to real-world applications.
+
+Responsibilities:
+Conduct research in AI, deep learning, and NLP.
+Develop and optimize machine learning models.
+Publish findings in top-tier conferences and journals.
+Collaborate with cross-functional teams to integrate AI solutions.
+Stay updated with the latest AI advancements and technologies.
+Qualifications:
+Ph.D. or Masters in AI, Machine Learning, or related field.
+Strong programming skills in Python, TensorFlow, or PyTorch.
+Experience with research methodologies and model optimization.
+Excellent problem-solving and analytical skills.",True,10.630458715596333,"{'entities': [{'text': 'AI', 'label': 'GPE'}, {'text': 'AI', 'label': 'ORG'}, {'text': 'AI', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': 'NLP', 'label': 'ORG'}, {'text': 'Develop', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': 'Ph.D.', 'label': 'WORK_OF_ART'}, {'text': 'Master\x92s', 'label': 'PERSON'}, {'text': 'AI', 'label': 'GPE'}, {'text': 'Machine Learning', 'label': 'PERSON'}, {'text': 'Python', 'label': 'GPE'}, {'text': 'TensorFlow', 'label': 'ORG'}, {'text': 'PyTorch', 'label': 'ORG'}], 'noun_phrases': ['Description', 'We', 'an innovative AI Researcher', 'cutting-edge AI models', 'algorithms', 'You', 'machine learning techniques', 'AI systems', 'research', 'real-world applications', 'Responsibilities', 'research', 'AI', 'deep learning', 'NLP', 'Develop', 'machine learning models', 'Publish findings', 'top-tier conferences', 'journals', 'cross-functional teams', 'AI solutions', 'the latest AI advancements', 'technologies', 'Qualifications', 'Ph.D.', 'Master\x92s', 'AI', 'Machine Learning', 'related field', 'Strong programming skills', 'Python', 'TensorFlow', 'PyTorch', 'Experience', 'research methodologies', 'model optimization', 'Excellent problem-solving and analytical skills']}"
+Database Administrator,"Description:
+Manage, optimize, and secure database systems to ensure high performance, availability, and data integrity. Monitor database health, troubleshoot issues, and implement security measures.
+
+Responsibilities:
+
+Install, configure, and maintain database systems.
+Optimize database performance and ensure data security.
+Perform backups, recovery, and troubleshooting.
+Monitor system performance and resolve database issues.
+Implement best practices for database design and management.
+Qualifications:
+
+Bachelor's degree in Computer Science or related field.
+Proficiency in SQL and database management systems (MySQL, PostgreSQL, Oracle, or MongoDB).
+Experience in database security, backups, and optimization.
+Strong problem-solving and analytical skills.","phrase: Description: Manage, optimize, and secure database systems to ensure high performance, availability, and data integrity. Monitor database health, troubleshoot issues, and implement security measures. Responsibilities: Install, configure, and maintain database systems. Monitor database health, troubleshoot issues, and implement security measures. Perform backups, recovery, and troubleshooting. Monitor system performance and ensure data security. Perform backups, recovery, and troubleshooting. Perform backups, recovery, and troubleshooting.",15.367487781036171,"{'entities': [{'text': 'Bachelor', 'label': 'ORG'}, {'text': 'Computer Science', 'label': 'ORG'}, {'text': 'SQL', 'label': 'GPE'}, {'text': 'PostgreSQL', 'label': 'GPE'}, {'text': 'Oracle', 'label': 'PERSON'}], 'noun_phrases': ['Description', 'database systems', 'high performance', 'availability', 'data integrity', 'Monitor database health', 'troubleshoot issues', 'security measures', 'Responsibilities', 'Install', 'configure', 'database systems', 'Optimize database performance', 'data security', 'Perform backups', 'recovery', 'Monitor system performance', 'database issues', 'best practices', 'database design', 'management', 'Qualifications', ""Bachelor's degree"", 'Computer Science', 'related field', 'Proficiency', 'SQL', 'database management systems', 'MySQL', 'PostgreSQL', 'Oracle', 'Experience', 'database security', 'backups', 'optimization', 'Strong problem-solving and analytical skills']}"
+Network Engineer,"Description:
+We are looking for a skilled Network Engineer to design, implement, and maintain our network infrastructure. The ideal candidate will ensure high availability, security, and performance of network systems while troubleshooting issues and optimizing connectivity.
+
+Responsibilities:
+
+Design and deploy network solutions for optimal performance.
+Monitor network health and troubleshoot issues.
+Implement security measures to protect network integrity.
+Manage firewalls, routers, switches, and VPNs.
+Ensure compliance with networking best practices and standards.
+Qualifications:
+
+Bachelor's degree in Computer Science, IT, or a related field.
+Strong knowledge of networking protocols (TCP/IP, DNS, DHCP).
+Experience with firewalls, routers, and enterprise networking.
+Proficiency in Cisco, Juniper, or similar networking technologies.
+Problem-solving skills and ability to work under pressure.",True,13.123611111111114,"{'entities': [{'text': 'Network Engineer', 'label': 'ORG'}, {'text': 'Bachelor', 'label': 'ORG'}, {'text': 'Computer Science', 'label': 'ORG'}, {'text': 'TCP/IP', 'label': 'ORG'}, {'text': 'DNS', 'label': 'ORG'}, {'text': 'DHCP', 'label': 'ORG'}, {'text': 'Cisco', 'label': 'GPE'}, {'text': 'Juniper', 'label': 'ORG'}], 'noun_phrases': ['Description', 'We', 'a skilled Network Engineer', 'our network infrastructure', 'The ideal candidate', 'high availability', 'security', 'performance', 'network systems', 'issues', 'connectivity', 'Responsibilities', 'Design', 'network solutions', 'optimal performance', 'Monitor network health and troubleshoot issues', 'security measures', 'network integrity', 'firewalls', 'routers', 'switches', 'VPNs', 'compliance', 'best practices', 'standards', 'Qualifications', ""Bachelor's degree"", 'Computer Science', 'IT', 'a related field', 'Strong knowledge', 'networking protocols', '(TCP/IP, DNS', 'Experience', 'firewalls', 'routers', 'enterprise', 'Proficiency', 'Cisco', 'Juniper', 'similar networking technologies', 'Problem-solving skills', 'ability', 'pressure']}"
+Software Architect,"Description:
+We are seeking an experienced Software Architect to design and oversee scalable, high-performance software solutions. You will define system architecture, ensure best practices, and collaborate with development teams to deliver efficient, secure, and maintainable applications.
+
+Responsibilities:
+Design and implement robust software architectures.
+Guide development teams in best coding and design practices.
+Ensure scalability, security, and performance of applications.
+Conduct architectural reviews and optimize system workflows.
+Stay updated with emerging technologies and industry trends.
+Qualifications:
+Bachelor's/Masters degree in Computer Science or related field.
+Strong expertise in software design patterns and system architecture.
+Proficiency in cloud computing, microservices, and DevOps practices.
+Experience with programming languages like Java, Python, or C++.
+Excellent problem-solving and leadership skills.",True,13.959852941176472,"{'entities': [{'text': 'Software', 'label': 'ORG'}, {'text': 'Computer Science', 'label': 'ORG'}, {'text': 'DevOps', 'label': 'ORG'}, {'text': 'Java', 'label': 'PERSON'}, {'text': 'C++', 'label': 'MONEY'}], 'noun_phrases': ['Description', 'We', 'an experienced Software Architect', 'scalable, high-performance software solutions', 'You', 'system architecture', 'best practices', 'development teams', 'efficient, secure, and maintainable applications', 'Responsibilities', 'Design', 'robust software architectures', 'Guide development teams', 'best coding and design practices', 'scalability', 'security', 'performance', 'applications', 'architectural reviews', 'optimize system workflows', 'emerging technologies', 'industry trends', 'Qualifications', ""Bachelor's/Master\x92s degree"", 'Computer Science', 'related field', 'Strong expertise', 'software design patterns', 'system architecture', 'Proficiency', 'cloud computing', 'microservices', 'DevOps practices', 'Experience', 'programming languages', 'Java', 'Python', 'C++', 'Excellent problem-solving and leadership skills']}"
+Blockchain Developer,"Description:
+Design, develop, and maintain blockchain-based applications, ensuring security, scalability, and efficiency. Work with smart contracts, decentralized applications (DApps), and cryptographic protocols to build innovative solutions.
+
+Responsibilities:
+
+Develop and deploy secure smart contracts and blockchain applications.
+Optimize blockchain infrastructure for performance and scalability.
+Integrate blockchain solutions with existing systems.
+Ensure security and compliance in blockchain implementations.
+Stay updated with emerging blockchain technologies and trends.
+Qualifications:
+
+Bachelor's degree in Computer Science, Information Technology, or a related field.
+Proficiency in Solidity, Ethereum, Hyperledger, or other blockchain frameworks.
+Experience with cryptography, smart contracts, and decentralized applications.
+Strong problem-solving skills and knowledge of distributed systems.","phrase: Description: Design, develop, and maintain blockchain-based applications, ensuring security, scalability, and efficiency. Work with smart contracts, decentralized applications (DApps), and cryptographic protocols to build innovative solutions. Responsibilities: Develop and deploy secure smart contracts and blockchain applications. Optimize blockchain infrastructure for performance and scalability. Integrate blockchain solutions with existing systems. Stay updated with emerging blockchain technologies and trends. Qualifications: Bachelor's degree in Computer Science, Information Technology, or related field.",16.23573426573427,"{'entities': [{'text': 'DApps', 'label': 'ORG'}, {'text': 'Bachelor', 'label': 'ORG'}, {'text': 'Computer Science, Information Technology', 'label': 'ORG'}, {'text': 'Solidity', 'label': 'GPE'}, {'text': 'Hyperledger', 'label': 'PERSON'}], 'noun_phrases': ['Description', 'Design', 'blockchain-based applications', 'security', 'scalability', 'efficiency', 'smart contracts', 'decentralized applications', 'DApps', 'cryptographic protocols', 'innovative solutions', 'Responsibilities', 'secure smart contracts', 'blockchain applications', 'Optimize blockchain infrastructure', 'performance', 'scalability', 'blockchain solutions', 'existing systems', 'security', 'compliance', 'blockchain implementations', 'emerging blockchain technologies', 'trends', 'Qualifications', ""Bachelor's degree"", 'Computer Science', 'Information Technology', 'a related field', 'Proficiency', 'Solidity', 'Ethereum', 'Hyperledger', 'other blockchain frameworks', 'Experience', 'cryptography', 'smart contracts', 'decentralized applications', 'Strong problem-solving skills', 'knowledge', 'distributed systems']}"
+IT Project Manager,"Description:
+Oversee IT projects from planning to execution, ensuring timely delivery within scope and budget. Collaborate with teams, manage risks, and implement best practices for successful project completion.
+
+Responsibilities:
+
+Define project scope, goals, and deliverables.
+Develop and manage project timelines, budgets, and resources.
+Coordinate between cross-functional teams and stakeholders.
+Identify and mitigate risks to ensure smooth project execution.
+Monitor progress and provide regular status updates.
+Qualifications:
+
+Bachelors degree in IT, Computer Science, or related field.
+Proven experience in IT project management.
+Knowledge of Agile, Scrum, and Waterfall methodologies.
+Strong leadership, communication, and problem-solving skills.
+
+
+
+
+",True,13.152183692596065,"{'entities': [{'text': 'Identify', 'label': 'PERSON'}, {'text': 'Scrum', 'label': 'PERSON'}, {'text': 'Waterfall', 'label': 'ORG'}], 'noun_phrases': ['Description', 'IT projects', 'execution', 'timely delivery', 'scope', 'budget', 'Collaborate', 'teams', 'risks', 'best practices', 'successful project completion', 'Responsibilities', 'Define project scope', 'goals', 'deliverables', 'project timelines', 'budgets', 'resources', 'Coordinate', 'cross-functional teams', 'stakeholders', 'risks', 'smooth project execution', 'Monitor progress', 'regular status updates', 'Qualifications', 'Bachelor\x92s degree', 'IT', 'Computer Science', 'related field', 'Proven experience', 'IT project management', 'Knowledge', 'Agile', 'Scrum', 'Waterfall methodologies', 'Strong leadership', 'communication', 'problem-solving skills']}"
+Business Intelligence Analyst,"Description:
+Analyze business data to identify trends, generate insights, and support strategic decision-making. Develop reports and dashboards to communicate findings effectively.
+
+Responsibilities:
+
+Collect, process, and analyze business data to drive insights.
+Develop interactive dashboards and reports using BI tools.
+Collaborate with teams to improve data-driven decision-making.
+Ensure data accuracy and integrity in reporting.
+Qualifications:
+
+Bachelor's degree in Data Science, Business Analytics, or a related field.
+Proficiency in SQL, Power BI, Tableau, or similar tools.
+Strong analytical and problem-solving skills.
+Experience in data visualization and statistical analysis.","Description: Analyze business data to identify trends, generate insights, and support strategic decision-making. Develop reports and dashboards to communicate findings effectively. Collaborate with teams to improve data-driven decision-making. Ensure data accuracy and integrity in reporting. Qualifications: Bachelor's degree in Data Science, Business Analytics, or a related field. Experience in data visualization and statistical analysis. Experience in data visualization and statistical analysis.",14.152406593406596,"{'entities': [{'text': 'BI', 'label': 'ORG'}, {'text': 'Bachelor', 'label': 'ORG'}, {'text': 'Data Science, Business Analytics', 'label': 'ORG'}, {'text': 'SQL', 'label': 'ORG'}, {'text': 'Power BI', 'label': 'ORG'}, {'text': 'Tableau', 'label': 'GPE'}], 'noun_phrases': ['Description', 'business data', 'trends', 'insights', 'strategic decision-making', 'Develop', 'reports', 'dashboards', 'findings', 'Responsibilities', 'process', 'business data', 'insights', 'interactive dashboards', 'reports', 'BI tools', 'Collaborate', 'teams', 'data-driven decision-making', 'data accuracy', 'integrity', 'Qualifications', ""Bachelor's degree"", 'Data Science', 'Business Analytics', 'a related field', 'Proficiency', 'SQL', 'Power BI', 'Tableau', 'similar tools', 'Strong analytical and problem-solving skills', 'Experience', 'data visualization', 'statistical analysis']}"
+Robotics Engineer,"Description:
+We are seeking an innovative Robotics Engineer to design, develop, and optimize robotic systems for automation and intelligent applications. You will work on hardware-software integration, motion control, and AI-driven robotics solutions.
+
+Responsibilities:
+Design, build, and test robotic systems for industrial or research applications.
+Develop software algorithms for navigation, control, and automation.
+Integrate sensors, actuators, and AI-based decision-making systems.
+Troubleshoot and optimize robotic performance.
+Stay updated with emerging robotics technologies and advancements.
+Qualifications:
+Bachelors or Masters degree in Robotics, Mechanical Engineering, or related field.
+Proficiency in C++, Python, and ROS (Robot Operating System).
+Experience with embedded systems, motion planning, and AI applications in robotics.
+Strong analytical and problem-solving skills",True,14.564106583072103,"{'entities': [{'text': 'Robotics Engineer', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}, {'text': 'AI', 'label': 'GPE'}, {'text': 'Robotics', 'label': 'GPE'}, {'text': 'Mechanical Engineering', 'label': 'ORG'}, {'text': 'C++', 'label': 'GPE'}, {'text': 'ROS', 'label': 'ORG'}, {'text': 'Robot Operating System', 'label': 'ORG'}, {'text': 'AI', 'label': 'GPE'}], 'noun_phrases': ['Description', 'We', 'an innovative Robotics Engineer', 'robotic systems', 'automation', 'intelligent applications', 'You', 'hardware-software integration', 'motion control', 'AI-driven robotics solutions', 'Responsibilities', 'Design', 'test robotic systems', 'industrial or research applications', 'software algorithms', 'navigation', 'control', 'automation', 'sensors', 'actuators', 'AI-based decision-making systems', 'Troubleshoot', 'robotic performance', 'emerging robotics technologies', 'advancements', 'Qualifications', 'Bachelor\x92s or Master\x92s degree', 'Robotics', 'Mechanical Engineering', 'related field', 'Proficiency', 'C++', 'Python', 'ROS', '(Robot Operating System', 'Experience', 'embedded systems', 'motion planning', 'AI applications', 'robotics', 'Strong analytical and problem-solving skills']}"
+Embedded Systems Engineer,"Description:
+Design and develop software for embedded systems, ensuring performance, efficiency, and reliability. Work with microcontrollers, real-time operating systems, and low-level programming to build innovative solutions for various industries.
+
+Responsibilities:
+
+Develop, test, and optimize embedded software and firmware.
+Collaborate with hardware teams to ensure seamless integration.
+Debug and troubleshoot real-time system issues.
+Optimize power consumption and system performance.
+Stay updated with emerging technologies in embedded systems.
+Qualifications:
+
+Bachelor's degree in Electrical Engineering, Computer Engineering, or related field.
+Proficiency in C/C++, assembly language, and embedded Linux.
+Experience with microcontrollers, RTOS, and hardware debugging tools.
+Strong problem-solving and analytical skills.
+
+
+
+
+",True,14.306888111888114,"{'entities': [{'text': 'Debug', 'label': 'PERSON'}, {'text': 'Bachelor', 'label': 'ORG'}, {'text': 'Electrical Engineering', 'label': 'ORG'}, {'text': 'Computer Engineering', 'label': 'ORG'}, {'text': 'C/C++', 'label': 'ORG'}, {'text': 'Linux', 'label': 'GPE'}, {'text': 'RTOS', 'label': 'ORG'}], 'noun_phrases': ['Description', 'software', 'embedded systems', 'performance', 'efficiency', 'reliability', 'microcontrollers', 'real-time operating systems', 'low-level programming', 'innovative solutions', 'various industries', 'Responsibilities', 'test', 'embedded software', 'firmware', 'Collaborate', 'hardware teams', 'seamless integration', 'Debug', 'troubleshoot real-time system issues', 'Optimize power consumption and system performance', 'emerging technologies', 'embedded systems', 'Qualifications', ""Bachelor's degree"", 'Electrical Engineering', 'Computer Engineering', 'related field', 'Proficiency', 'C/C++', 'assembly language', 'Linux', 'Experience', 'microcontrollers', 'RTOS', 'hardware debugging tools', 'Strong problem-solving and analytical skills']}"
+Quality Assurance Engineer,"Description:
+Ensure the quality and reliability of software applications by conducting manual and automated testing. Identify bugs, optimize testing processes, and collaborate with developers to improve software performance.
+
+Responsibilities:
+Develop and execute test plans, cases, and scripts.
+Identify and document software defects, ensuring timely resolution.
+Automate testing processes to improve efficiency.
+Collaborate with developers to enhance software quality.
+Conduct performance and security testing as needed.
+Qualifications:
+Bachelor's degree in Computer Science, Engineering, or related field.
+Experience with testing tools like Selenium, JUnit, or TestNG.
+Strong analytical and problem-solving skills.
+Knowledge of software development lifecycle (SDLC) and Agile methodologies.
+Ability to work independently and in a team environment.","Paraphrase: Description: Ensure the quality and reliability of software applications by conducting manual and automated testing. Identify bugs, optimize testing processes, and collaborate with developers to improve software performance. Responsibilities: Develop and execute test plans, cases, and scripts. Identify and document software defects, ensuring timely resolution. Collaborate with developers to improve software performance.",14.475435779816518,"{'entities': [{'text': 'Develop', 'label': 'ORG'}, {'text': 'Bachelor', 'label': 'ORG'}, {'text': 'Computer Science, Engineering', 'label': 'ORG'}, {'text': 'Selenium', 'label': 'PERSON'}, {'text': 'JUnit', 'label': 'ORG'}, {'text': 'TestNG', 'label': 'CARDINAL'}, {'text': 'Agile', 'label': 'NORP'}], 'noun_phrases': ['Description', 'the quality', 'reliability', 'software applications', 'manual', 'automated testing', 'bugs', 'optimize testing processes', 'developers', 'software performance', 'Responsibilities', 'test plans', 'cases', 'scripts', 'Identify and document software defects', 'timely resolution', 'Automate testing processes', 'efficiency', 'Collaborate', 'developers', 'software quality', 'Conduct performance', 'security testing', 'Qualifications', ""Bachelor's degree"", 'Computer Science', 'Engineering', 'related field', 'Experience', 'testing tools', 'Selenium', 'JUnit', 'TestNG', 'Strong analytical and problem-solving skills', 'Knowledge', 'software development lifecycle', 'SDLC', 'Agile methodologies', 'Ability', 'a team environment']}"
+UX/UI Designer,"Description:We are seeking a creative and detail-oriented UX/UI Designer to craft intuitive and visually appealing digital experiences. You will collaborate with developers and stakeholders to design user-friendly interfaces, ensuring a seamless user journey.
+
+Responsibilities:
+Design wireframes, prototypes, and UI elements based on user needs.
+Conduct user research and usability testing to refine designs.
+Collaborate with developers to ensure accurate implementation.
+Stay updated with design trends and best practices.
+Qualifications:
+Bachelors degree in Design, Human-Computer Interaction, or a related field.
+Proficiency in design tools like Figma, Adobe XD, or Sketch.
+Strong understanding of user experience principles and front-end technologies.
+
+
+
+
+",True,13.796190476190478,"{'entities': [{'text': 'UI Designer', 'label': 'PERSON'}, {'text': 'UI', 'label': 'ORG'}, {'text': 'Design', 'label': 'GPE'}, {'text': 'Figma', 'label': 'ORG'}, {'text': 'Sketch', 'label': 'PERSON'}], 'noun_phrases': ['Description', 'We', 'a creative and detail-oriented UX/UI Designer', 'digital experiences', 'You', 'developers', 'stakeholders', 'user-friendly interfaces', 'a seamless user journey', 'Responsibilities', 'Design wireframes', 'prototypes', 'UI elements', 'user needs', 'user research and usability testing', 'designs', 'Collaborate', 'developers', 'accurate implementation', 'design trends', 'best practices', 'Qualifications', 'Bachelor\x92s degree', 'Design', 'Human-Computer Interaction', 'a related field', 'Proficiency', 'design tools', 'Figma', 'Adobe XD', 'Sketch', 'Strong understanding', 'user experience principles', 'front-end technologies']}"
